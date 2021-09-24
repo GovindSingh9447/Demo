@@ -1,0 +1,141 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Music-design-sketch-name.png",
+    "baseName": "Music-design-sketch-name.png",
+    "format": "PNG",
+    "formatDescription": "PNG",
+    "mimeType": "image/png",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 503,
+      "height": 295,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 28.35,
+      "y": 28.35
+    },
+    "printSize": {
+      "x": 17.7425,
+      "y": 10.4056
+    },
+    "units": "PixelsPerCentimeter",
+    "type": "TrueColor",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 445155,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 244.944,
+        "median": 255,
+        "standardDeviation": 10080.7,
+        "kurtosis": 22.3003,
+        "skewness": -4.68822,
+        "entropy": 0.152135
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 3,
+        "max": 255,
+        "mean": 245.292,
+        "median": 255,
+        "standardDeviation": 10127.4,
+        "kurtosis": 24.3237,
+        "skewness": -4.9114,
+        "entropy": 0.150652
+      },
+      "green": {
+        "min": 10,
+        "max": 255,
+        "mean": 245.101,
+        "median": 255,
+        "standardDeviation": 9722.95,
+        "kurtosis": 21.1974,
+        "skewness": -4.5691,
+        "entropy": 0.153081
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 244.438,
+        "median": 255,
+        "standardDeviation": 10391.7,
+        "kurtosis": 21.1179,
+        "skewness": -4.56378,
+        "entropy": 0.152671
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 503,
+      "height": 295,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2021-03-07T11:29:31+00:00",
+      "date:modify": "2021-03-07T11:29:31+00:00",
+      "png:bKGD": "chunk was found (see Background color, above)",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "2",
+      "png:IHDR.color_type": "2 (Truecolor)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "503, 295",
+      "png:pHYs": "x_res=2835, y_res=2835, units=1",
+      "png:sRGB": "intent=0 (Perceptual Intent)",
+      "png:tIME": "2017-05-25T03:53:43Z",
+      "signature": "b705280a26c1234708d9dee18d9f00c45fdbef26666f47f481ce91460a4d315a"
+    },
+    "tainted": false,
+    "filesize": "30877B",
+    "numberPixels": "148385",
+    "pixelsPerSecond": "18.8706MB",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.007",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
